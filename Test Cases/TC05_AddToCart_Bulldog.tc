@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_AddToCart_Bulldog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46bbdd71-4eaf-48fb-83fc-55fdd4109f77</testCaseGuid>
+</TestCaseEntity>

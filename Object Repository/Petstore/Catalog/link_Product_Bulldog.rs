@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Product_Bulldog</name>
+   <tag></tag>
+   <elementGuidId>708549aa-d5d8-4940-bad0-7a365e1c637a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Catalog']//a[contains(@href,'productId=K9-BD-01')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Catalog']//a[contains(@href,'productId=K9-BD-01')]</value>
+   </webElementProperties>
+</WebElementEntity>

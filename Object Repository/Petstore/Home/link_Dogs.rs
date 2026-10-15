@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Dogs</name>
+   <tag></tag>
+   <elementGuidId>85b9ae44-5fec-41ab-a8de-da713f7634f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SidebarContent']//a[contains(@href,'categoryId=DOGS')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='SidebarContent']//a[contains(@href,'categoryId=DOGS')]</value>
+   </webElementProperties>
+</WebElementEntity>
